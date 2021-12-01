@@ -14,8 +14,8 @@
   <img align="center" alt="Victor-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Victor-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/913550091846037505/915646172872470598/277758_kJ4vwFY3.png?width=566&height=566">
-</div>
+<!--  <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/913550091846037505/915646172872470598/277758_kJ4vwFY3.png?width=566&height=566">
+</div> -->
   
   ##
  
