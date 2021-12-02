@@ -1,6 +1,6 @@
 ### Olá, Me chamo Victor Kümmel!
  
-- 🌱 Estudante de Ensino Médio Técnico
+- 🌱 Estudante do Ensino Médio Técnico
 - 📫 Contate-me no email: victorkummell@gmail.com
 - 😄 Pronouns: ele/dele
 
