@@ -1,6 +1,5 @@
 # Victor Kümmel
 
-<!-- <img align="right" width="260px" src="./octupos.png" /> -->
 <img align="right" width="300px" src="./bio-image.png" />
 
 <p aling="center">
