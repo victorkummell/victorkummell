@@ -4,10 +4,10 @@
 <img align="right" width="300px" src="./bio-image.png" />
 
 <p aling="center">
-  <a href="https://www.instagram.com/victorkummell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/victorkummell" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorkummell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-kummel-a996a2227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/victorkummell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2346ffc0?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://www.twitter.com/victorkummell" target="_blank"><img src="https://img.shields.io/badge/Twitter-46ffc0?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
+  <a href = "mailto:victorkummell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-46ffc0?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-kummel-a996a2227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-46ffc0?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 </p>
  
 - 📚 Estudante do Ensino Médio Técnico
