@@ -1,6 +1,7 @@
 # Victor Kümmel
 
-<img align="right" width="260px" src="./octupos.png" />
+<!-- <img align="right" width="260px" src="./octupos.png" /> -->
+<img align="right" width="300px" src="./bio-image.png" />
 
 <p aling="center">
   <a href="https://www.instagram.com/victorkummell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
