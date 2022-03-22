@@ -1,20 +1,12 @@
-# Victor Kümmel
+<h1>Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Eu sou Victor Kummel</h1>
 
-<img align="right" width="300px" src="./bio-image.png" />
+<p>Estudante do Ensino Médio Tecnico Informática. Gosto muito de programação.</p>
 
-<p aling="center">
-  <a href="https://www.instagram.com/victorkummell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2346ffc0?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://www.twitter.com/victorkummell" target="_blank"><img src="https://img.shields.io/badge/Twitter-46ffc0?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
-  <a href = "mailto:victorkummell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-46ffc0?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-kummel-a996a2227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-46ffc0?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
-</p>
- 
-- 📚 Estudante do Ensino Médio Técnico
-- 📫 Contate-me pelo email : victorkummell@gmail.com
-- 🚀 Portfólio : (em breve)
- 
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=victorkummell&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=46ffc0&icon_color=46ffc0&bg_color=46ffc000&text_color=46ffc0&hide_border=true"
-/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=42D3FF&background=FFFFFF00&lines=Fale+Comigo)](https://git.io/typing-svg)
+
+![Gmail](https://img.shields.io/badge/victorkummell@gmail.com-42d3ff?style=for-the-badge&logo=gmail&logoColor=black)![Instagram](https://img.shields.io/badge/@victorkummell-42d3ff?style=for-the-badge&logo=instagram&logoColor=black)![Twitter](https://img.shields.io/badge/@victorkummell-42d3ff?style=for-the-badge&logo=twitter&logoColor=black
+)![Linkedin](https://img.shields.io/badge/LinkedIn-42d3ff?style=for-the-badge&logo=linkedin&logoColor=black)
+
+<h2>Linguagens que Tenho Domínio</h1>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-42d3ff?style=for-the-badge&logo=javascript&logoColor=black)![Java](https://img.shields.io/badge/Java-42d3ff?style=for-the-badge&logo=java&logoColor=black)![HTML](https://img.shields.io/badge/HTML-42d3ff?style=for-the-badge&logo=html5&logoColor=black)![CSS](https://img.shields.io/badge/CSS-42d3ff?&style=for-the-badge&logo=css3&logoColor=black)
